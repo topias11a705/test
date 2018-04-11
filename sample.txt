@@ -1,1 +1,6 @@
-hello world
+//hello world
+public class Taku{
+  void name(){
+    //none
+  }
+}
